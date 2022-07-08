@@ -11,7 +11,7 @@ Causal Loop Diagram Style Guide for MermaidJS
 
 
 # About the project
-This is a quick guide for creating casual loop diagrams with mermaidjs this will allow you to quickly generate shareable, iteratively editable Casual Loop Diagrams.
+This is a quick guide for creating causal loop diagrams with mermaidjs this will allow you to quickly generate shareable, iteratively editable Causal Loop Diagrams.
 
 # Getting Started 
 To use this simply go to [MermaidJS Live](https://mermaid.live) and copy the example from the [template.mmd](template.mmd) file and launch or 
