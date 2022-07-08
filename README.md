@@ -118,7 +118,9 @@ classDef tr fill:#00000000, stroke:#00000000;
 Diagrams are an essential tool in token engineering. Not having a way to share,reuse, iterate,extend and collaborate on diagrams hurts. 
 
 Let's start this token diagrams in code movement, with one of the most important diagrams that you encounter in token engineering, the [Causal Loop Diagram](https://en.wikipedia.org/wiki/Causal_loop_diagram).
+
 ![](https://i.imgur.com/8BYWw4K.png)
+*Courtesy of Wikipedia*
 
 Causal Loop Diagrams are diagrams that help us visualize the relationships between entities. **‘+’** represent positively correlated relationships and **‘-’** negatively correlated relationships.  
 
@@ -129,6 +131,7 @@ Causal Loop Diagrams are diagrams that help us visualize the relationships betwe
 - ability to add notes to diagram
 - rules around subgraphs
 - rules around spacing
+- improved auto routing layout
 
 ## Useful Communication Channels Discord
 [Token Engineering Academy](https://discord.gg/2mNwEgrcGm)
