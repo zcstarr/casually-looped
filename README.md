@@ -14,7 +14,7 @@ Causal Loop Diagram Style Guide for MermaidJS
 This is a quick guide for creating casual loop diagrams with mermaidjs this will allow you to quickly generate shareable, iteratively editable Casual Loop Diagrams.
 
 # Getting Started 
-To use this simply go to (MermaidJS Live)[https://mermaid.live] and copy the example from the [template.mmd](template.mmd) file and launch or 
+To use this simply go to [MermaidJS Live](https://mermaid.live) and copy the example from the [template.mmd](template.mmd) file and launch or 
 Use this from your IDE like [VS-code](https://code.visualstudio.com/) or just get started on your own with a blank graph 
 ```
 graph LR
@@ -131,9 +131,9 @@ Causal Loop Diagrams are diagrams that help us visualize the relationships betwe
 - rules around spacing
 
 ## Useful Communication Channels Discord
-Token Engineering Academy --> https://discord.gg/2mNwEgrcGm
-Token Engineering Commons --> https://discord.gg/nRprMgkMcs
-Ships --> https://discord.gg/SmJv96G9PX
+[Token Engineering Academy](https://discord.gg/2mNwEgrcGm)
+[Token Engineering Commons](https://discord.gg/nRprMgkMcs)
+[Ships](https://discord.gg/SmJv96G9PX)
 
 ## Contribute
 Create an issue and contribute to making codeable diagrams 
