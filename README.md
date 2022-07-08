@@ -133,10 +133,12 @@ Causal Loop Diagrams are diagrams that help us visualize the relationships betwe
 - rules around spacing
 - improved auto routing layout
 
-## Useful Communication Channels Discord
-[Token Engineering Academy](https://discord.gg/2mNwEgrcGm)
-[Token Engineering Commons](https://discord.gg/nRprMgkMcs)
-[Ships](https://discord.gg/SmJv96G9PX)
+## Useful Communication Channels
+[Token Engineering Academy Discord](https://discord.gg/2mNwEgrcGm)
+
+[Token Engineering Commons Discord](https://discord.gg/nRprMgkMcs)
+
+[Ships Discord](https://discord.gg/SmJv96G9PX)
 
 ## Contribute
 Create an issue and contribute to making codeable diagrams 
